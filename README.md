@@ -1,4 +1,5 @@
 # azalel-nation-logo
+Berisi logo baru untuk Azalel Nation.
 
 ## Keterangan file & folder
 - Color: Berisi logo berwarna
