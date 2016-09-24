@@ -15,4 +15,5 @@ Demi mengurangi ukuran sekaligus agar dapat digunakan di semua resolusi, SVG dip
 Jika ada pertanyaan, silahkan PM saya lewat forum atau lewat in-game.
 
 Sekian, terima kasih.
+
 -Chief ZDN
